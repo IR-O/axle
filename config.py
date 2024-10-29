@@ -1,0 +1,40 @@
+#API_SAUKE
+#SASUKE_FOEMAT
+#BYSasUKE_API_KEY FAVDAUTCREHY
+#OWNER - @BeasTxt_Sasuke
+#KEY_REDEMPTION_1711
+#ACCESS_KEY_1711
+#FAILED_SasUKE_1711
+#HFAHYOYO_YTIATII_1575757_AS4575AA_57A7ASUYUT_WUUTIUU_4687_1711
+#JOIN - @bgmisellingbuying
+#CHANNEL- @StoRm_BGMI_HACKS_STORE
+
+# Don't use quotes( " and ' )
+#SCRIPT BY SASUKE
+  
+#Enter Your Bot Token here get it from @botfarher
+BOT_TOKEN=("7387261421:AAHkyKya_QlLe1x2qNa2CTnazOSOPeUb0Ew")
+
+  #Enter Your telegram username here without @
+OWNER_USERNAME=("@swarg_developer")
+
+  #Enter your admin id here Get it from @missRose_bot by typing /info
+ADMIN_IDS=("6321758394")
+
+#API_SAUKE
+#SASUKE_FOEMAT
+#BYSasUKE_API_KEY FAVDAUTCREHY
+#OWNER - @BeasTxt_Sasuke
+#KEY_REDEMPTION_1711
+#ACCESS_KEY_1711
+#FAILED_SasUKE_1711
+#HFAHYOYO_YTIATII_1575757_AS4575AA_57A7ASUYUT_WUUTIUU_4687_1711
+#JOIN - @bgmisellingbuying
+#CHANNEL- @StoRm_BGMI_HACKS_STORE
+
+
+
+
+
+
+  
