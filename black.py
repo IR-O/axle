@@ -35,7 +35,7 @@ def run_attack_command_sync(user_id, target_ip, target_port, attack_time, action
     try:
         if action == 1:  # Start the attack
             process = subprocess.Popen(
-                ["./soulcracks", target_ip, str(target_port), str(attack_time), "200"],
+                ["./soulcracks", target_ip, str(target_port), str(attack_time), "149"],
                 stdout=subprocess.PIPE,
                 stderr=subprocess.PIPE
             )
